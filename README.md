@@ -1,5 +1,4 @@
-# Team 27
-## IDL project Pipeline
+# Team 27 (IDL project Pipeline)
 
 ### Tokenizers
 ![](pics/Screenshot%20from%202024-03-16%2002-07-45.png)
